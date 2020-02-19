@@ -1,0 +1,5 @@
+dolo 1 2
+mega 1 3
+cro 1 4
+move 1 5
+zandu 2 6
